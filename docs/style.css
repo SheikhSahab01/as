@@ -1,0 +1,29 @@
+
+#order{
+    padding: 5% 10%;
+    background-color: #000;
+    text-align: center;
+}
+
+input{
+    background-color: grey;
+}
+label{
+    color: #fff;
+}
+.order-title{
+    font-size: 70px;
+    font-family: 'Berkshire Swash', cursive;
+    color: gray;
+    text-align: center;
+
+}
+.hr3{
+    border-style:none;
+    border-color:#fff;
+    border-top-style: dotted ;
+    border-width: 4px;
+    width: 11%; 
+    margin: 0 auto 2% auto
+
+}
